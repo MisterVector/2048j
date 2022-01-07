@@ -5,6 +5,9 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
+import org.codespeak.twentyfourtyeightj.objects.StageController;
+import org.codespeak.twentyfourtyeightj.scenes.SceneTypes;
+import org.codespeak.twentyfourtyeightj.util.SceneUtil;
 
 /**
  *
@@ -14,12 +17,11 @@ public class Main extends Application {
     
     @Override
     public void start(Stage stage) throws Exception {
-        Parent root = FXMLLoader.load(getClass().getResource("scenes/MainScene.fxml"));
-        
-        Scene scene = new Scene(root);
-        
-        stage.setScene(scene);
+        StageController stageController = SceneUtil.getScene(stage, SceneTypes.MAIN);
+        stage = stageController.getStage();
+
         stage.show();
+
     }
 
     /**
