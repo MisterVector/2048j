@@ -1,13 +1,13 @@
-package org.codespeak.twentyfourtyeightj;
+package org.codespeak.twentyfortyeightj;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
-import org.codespeak.twentyfourtyeightj.objects.StageController;
-import org.codespeak.twentyfourtyeightj.scenes.SceneTypes;
-import org.codespeak.twentyfourtyeightj.util.SceneUtil;
+import org.codespeak.twentyfortyeightj.objects.StageController;
+import org.codespeak.twentyfortyeightj.scenes.SceneTypes;
+import org.codespeak.twentyfortyeightj.util.SceneUtil;
 
 /**
  *

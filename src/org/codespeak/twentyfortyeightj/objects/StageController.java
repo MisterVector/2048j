@@ -1,4 +1,4 @@
-package org.codespeak.twentyfourtyeightj.objects;
+package org.codespeak.twentyfortyeightj.objects;
 
 import javafx.stage.Stage;
 

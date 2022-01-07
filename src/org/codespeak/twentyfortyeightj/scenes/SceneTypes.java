@@ -1,4 +1,4 @@
-package org.codespeak.twentyfourtyeightj.scenes;
+package org.codespeak.twentyfortyeightj.scenes;
 
 /**
  * An enum containing a list of scenes

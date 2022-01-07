@@ -1,4 +1,4 @@
-package org.codespeak.twentyfourtyeightj.scenes;
+package org.codespeak.twentyfortyeightj.scenes;
 
 import java.net.URL;
 import java.util.ResourceBundle;

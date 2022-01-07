@@ -1,4 +1,4 @@
-package org.codespeak.twentyfourtyeightj;
+package org.codespeak.twentyfortyeightj;
 
 /**
  * A class that deals with the configuration of the program

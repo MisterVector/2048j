@@ -1,4 +1,4 @@
-package org.codespeak.twentyfourtyeightj.util;
+package org.codespeak.twentyfortyeightj.util;
 
 import java.io.IOException;
 import javafx.fxml.FXMLLoader;
@@ -6,10 +6,10 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
-import org.codespeak.twentyfourtyeightj.Configuration;
-import org.codespeak.twentyfourtyeightj.Main;
-import org.codespeak.twentyfourtyeightj.objects.StageController;
-import org.codespeak.twentyfourtyeightj.scenes.SceneTypes;
+import org.codespeak.twentyfortyeightj.Configuration;
+import org.codespeak.twentyfortyeightj.Main;
+import org.codespeak.twentyfortyeightj.objects.StageController;
+import org.codespeak.twentyfortyeightj.scenes.SceneTypes;
 
 /**
  *
